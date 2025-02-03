@@ -15,6 +15,7 @@ function App() {
       <Footer/>
       <Student name="Spongebob" age={30} isStudent={true}/>
       <Student name="Patrickb" age={40} isStudent={false}/>
+      <Student/>
     </>
   );
 }
